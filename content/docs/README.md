@@ -31,14 +31,14 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
 
 - **樓層平面圖 (香港房屋委員會)**
 
-  - [宏福苑宏仁閣 (A座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_ba.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_ba.pdf>
-  - [宏福苑 (B座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bb.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bb.pdf>
-  - [宏福苑 (C座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bC.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bC.pdf>
-  - [宏福苑 (D座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bd.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bd.pdf>
-  - [宏福苑 (E座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bE.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bE.pdf>
-  - [宏福苑 (F座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bf.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bf.pdf>
-  - [宏福苑 (G座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bg.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bg.pdf>
-  - [宏福苑 (H座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bh.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bh.pdf>
+  - [宏福苑宏仁閣 (A座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_ba.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_ba.pdf>
+  - [宏福苑 (B座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_bb.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bb.pdf>
+  - [宏福苑 (C座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_bC.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bC.pdf>
+  - [宏福苑 (D座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_bd.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bd.pdf>
+  - [宏福苑 (E座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_bE.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bE.pdf>
+  - [宏福苑 (F座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_bf.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bf.pdf>
+  - [宏福苑 (G座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_bg.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bg.pdf>
+  - [宏福苑 (H座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_bh.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bh.pdf>
 
 ## 宏福苑業主立案法團會議記錄 (Meeting Minutes)
 
