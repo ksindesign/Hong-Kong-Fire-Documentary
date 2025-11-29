@@ -41,3 +41,25 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-11-29 01:02:54 | ERROR    | Future exception was never retrieved
 future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
 playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-11-29 01:40:08 | INFO     | ============================================================
+2025-11-29 01:40:08 | INFO     | News Scraper Daemon Starting
+2025-11-29 01:40:08 | ERROR    | FORK_REPO environment variable not set!
+2025-11-29 01:40:08 | ERROR    | Please set it: export FORK_REPO='username/repo-name'
+2025-11-29 01:44:20 | INFO     | ============================================================
+2025-11-29 01:44:20 | INFO     | News Scraper Daemon Starting
+2025-11-29 01:44:20 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-29 01:44:20 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-29 01:44:20 | INFO     | Sync interval: 10 minutes
+2025-11-29 01:44:20 | INFO     | PR interval: 60 minutes
+2025-11-29 01:44:20 | INFO     | ============================================================
+2025-11-29 01:44:20 | INFO     | Setting up git remotes...
+2025-11-29 01:44:20 | INFO     | Added upstream remote: https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary.git
+2025-11-29 01:44:20 | INFO     | Configured origin remote with authentication
+2025-11-29 01:44:20 | INFO     | ----------------------------------------
+2025-11-29 01:44:20 | INFO     | Starting sync cycle...
+2025-11-29 01:44:20 | INFO     | Syncing with upstream...
+2025-11-29 01:44:25 | INFO     | Already up to date with upstream
+2025-11-29 01:44:25 | INFO     | Running scraper...
+2025-11-29 01:44:25 | INFO     | Found 402 new URLs to scrape
+2025-11-29 02:05:03 | INFO     | Scraper results: 402 success, 0 failed
+2025-11-29 02:05:03 | INFO     | Committing changes...

@@ -129,7 +129,8 @@ if [ "$INSTALL_SERVICE" = "y" ]; then
     cat > "$SERVICE_FILE" << EOF
 [Unit]
 Description=Hong Kong Fire Documentary News Scraper Daemon
-After=network.target
+After=network-online.target
+Wants=network-online.target
 
 [Service]
 Type=simple

@@ -227,6 +227,22 @@ journalctl -u news-scraper -n 50
 # - Python venv not activated
 ```
 
+### Service starts before WiFi is connected
+
+The service file uses `network-online.target` to wait for network connectivity. If you're still experiencing issues:
+
+```bash
+# Check if network-online.target is working
+systemctl status network-online.target
+
+# If using WiFi, ensure NetworkManager is configured:
+sudo systemctl enable NetworkManager-wait-online.service
+
+# Reload and restart the service
+sudo systemctl daemon-reload
+sudo systemctl restart news-scraper
+```
+
 ## File Reference
 
 | File | Purpose |
