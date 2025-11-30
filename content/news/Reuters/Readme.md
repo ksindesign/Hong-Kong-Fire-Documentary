@@ -24,8 +24,6 @@
 
 - **[Hong Kong tower fire toll rises to 128, more arrests made](https://www.reuters.com/world/china/hong-kong-nears-end-search-rescue-mission-tower-fire-toll-rises-94-2025-11-28/)**
 
-- **[Hong Kong tower fire toll rises to 128, more arrests made](https://www.reuters.com/world/china/hong-kong-nears-end-search-rescue-mission-tower-fire-toll-rises-94-2025-11-28/)**
-
 - **[Hong Kong residents scramble to deliver aid, support after deadly fire](https://www.reuters.com/world/china/hong-kong-residents-scramble-deliver-aid-support-after-deadly-fire-2025-11-28/)**
 
 - **[Hong Kong's deadliest fire in decades followed a year of safety complaints](https://www.reuters.com/world/china/hong-kongs-deadliest-fire-decades-followed-year-safety-complaints-2025-11-28/)**
